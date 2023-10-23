@@ -1,4 +1,2 @@
-kivy_venv/*
-!kivy_venv/share/
-kivy_venv/share/*
-!kivy_venv/share/MyProjects
+kivy_venv/
+!kivy_venv/share/MyProjects/Test/main.py
