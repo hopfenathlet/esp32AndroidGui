@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Test Pong",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/kivy_venv/share/MyProjects/Pong/main.py"
+        },
+        {
+            "name": "ESP32 Interface",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/kivy_venv/share/MyProjects/ESP32_interface/main.py"
+        }
+}
